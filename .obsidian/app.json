@@ -1,0 +1,14 @@
+{
+  "autoPairBrackets": false,
+  "attachmentFolderPath": "./Images pasted",
+  "showUnsupportedFiles": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "highlighterStyle": "rounded",
+  "highlighterMethods": "inline-styles",
+  "highlighters": {
+    "G": "#27E800A6",
+    "Y": "#FDFF00A6",
+    "R": "#FF0000A6",
+    "SB": "#00FFF0A6",
+    "P": "#CB00FFA6",
+    "PInk": "#FF00FFA6"
+  },
+  "highlighterOrder": [
+    "G",
+    "Y",
+    "R",
+    "SB",
+    "P",
+    "PInk"
+  ]
+}
